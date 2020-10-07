@@ -12,7 +12,7 @@ public class BatchBuild
     static string companyName = "com.isdf";
     static string androidBundle = "com.isdf.xcode";
     static string iosBundle = "com.isdf.xcode";
-    static string appName = "isdf_xcpde";
+    static string appName = "isdf_xcode";
     static string version = "0.0.1";
     static int buildVersion = 1;
 

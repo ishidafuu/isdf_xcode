@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4257ffe3-6dfa-4714-8d64-cd2db833e683" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/iOSPostProcess.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/iOSPostProcess.cs.meta" beforeDir="false" />
-    </list>
+    <list default="true" id="4257ffe3-6dfa-4714-8d64-cd2db833e683" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602080953343</updated>
-      <workItem from="1602080968433" duration="721000" />
+      <workItem from="1602080968433" duration="1370000" />
     </task>
     <servers />
   </component>
